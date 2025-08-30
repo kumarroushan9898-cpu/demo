@@ -1,0 +1,7 @@
+print("*", "*", "*", sep=" ")
+print(" ",end="")
+print("*", "*", sep=" ")
+print("  ", "*", sep="")
+print(" ",end="")
+print("*", "*", sep=" ")
+print("*", "*", "*", sep=" ")
